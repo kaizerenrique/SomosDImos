@@ -10,4 +10,4 @@ git merge desarrollo
 
 git push origin main
 
-git checkout Desarrollo
+git checkout desarrollo
