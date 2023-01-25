@@ -8,5 +8,3 @@ _La organización Somos DImos es una organización sin fines de lucro que realiz
 
 ## Autores ✒️
 * [kaizerenrique](https://github.com/kaizerenrique)
-
-
