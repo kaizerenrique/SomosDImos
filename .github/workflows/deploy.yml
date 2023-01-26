@@ -14,4 +14,4 @@ jobs:
         host: ${{ secrets.HOST }}
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
-        script: 'cd /var/www/html/'
+        script: 'cd /var/www/html/SomosDimos && ./server_deploy.sh' 
